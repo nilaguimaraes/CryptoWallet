@@ -1,0 +1,1 @@
+Patch email verification for validation (minor) - Implemented a new feature to enhance email verification.
