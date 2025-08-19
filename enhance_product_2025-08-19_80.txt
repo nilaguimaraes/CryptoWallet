@@ -1,0 +1,1 @@
+Enhance product search for synchronization (simplified) - Implemented a new feature to enhance product search.
